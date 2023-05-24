@@ -3,6 +3,10 @@
 
 # Models
 models/
+model/
+
+# Sentence trasformers
+sentence-transformers/
 
 # Local Chroma db
 .chroma/
